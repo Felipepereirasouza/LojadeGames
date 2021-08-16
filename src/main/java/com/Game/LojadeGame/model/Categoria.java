@@ -31,6 +31,9 @@ public class Categoria {
 	@Size(min=2,max=20)
 	private String quantidades;
 	
+	
+	
+	
 	@NotBlank
 	@Size(min=2,max=20)
 	private String tipoControle;
